@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it using the metadata below."
+
+title: "Prog_Multi_Model_Stacking"
+
+type: software
+
+authors:
+  - family-names: "Terentiev"
+    given-names: "Oleksandr"
+    affiliation: "Institute of Telecommunications and Global Information Space, National Academy of Sciences of Ukraine"
+
+abstract: >
+  Implementation of a multi-model stacking ensemble for Bitcoin transaction
+  classification using Random Forest, XGBoost, LightGBM, CatBoost,
+  and Logistic Regression.
+
+keywords:
+  - Bitcoin
+  - Cryptocurrency
+  - Machine Learning
+  - Ensemble Learning
+  - Stacking
+  - Random Forest
+  - XGBoost
+  - LightGBM
+  - CatBoost
+  - Logistic Regression
+  - Fraud Detection
+  - Blockchain
+
+license: MIT
+
+repository-code: "https://github.com/oterentiev/Prog_Multi_Model_Stacking"
+
+url: "https://github.com/oterentiev/Prog_Multi_Model_Stacking"
+
+version: "1.0"
+
+date-released: "2026-08-03"
